@@ -79,7 +79,7 @@ The [official documentation](https://docs.npmjs.com/files/package.json) provides
 
 You can also check out an interactive example of a full `package.json` below.
 
-<!-- @link, "url" : "http://browsenpm.org/package.json/", "text": "Explore what different fields do." -->
+<!-- @link, "url" : "http://browsenpm.org/package.json", "text": "Explore what different fields do." -->
 
 <!-- @section -->
 
