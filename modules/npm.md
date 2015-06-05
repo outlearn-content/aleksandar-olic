@@ -73,7 +73,7 @@ Is this ok? (yes)
 "private": true
 ```
 
-<!-- @task, "hasDeliverable" : true, "text" : "Create your \'package.json\' file and submit it."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Submit the contents of your \'package.json\' file."-->
 
 The [official documentation](https://docs.npmjs.com/files/package.json) provides a good overview of all the available properties in `package.json`. We will touch upon the most useful ones.
 
