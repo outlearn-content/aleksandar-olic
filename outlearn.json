@@ -5,9 +5,7 @@
   ],
 
   "modules" : [
-    {
-      "olm" : "./modules/npm.md"
-    }
+    {"olm" : "./modules/npm.md"}
   ],
 
   "assets" : [
