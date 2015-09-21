@@ -4,6 +4,7 @@
 "version" : "0.0.1",
 "title" : "NPM – Node.js package manager",
 "description" : "The most important things you need to know in order to use NPM effectively.",
+"author" : "Aleksandar Olić",
 "homepage" : "https://semaphoreci.com/community/tutorials/npm-node-js-package-manager",
 "canonicalSource" : "https://semaphoreci.com/community/tutorials/npm-node-js-package-manager",
 "freshnessDate" : 2015-04-01,
